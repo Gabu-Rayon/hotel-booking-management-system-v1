@@ -21,7 +21,7 @@ SET time_zone = "+00:00";
 -- Database: `ours_hotel_system_db`
 --
 
--- --------------------------------------------------------
+-- ------------------------------------------------------
 
 --
 -- Table structure for table `tblaccomodation`
